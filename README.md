@@ -1,4 +1,4 @@
-## yuuki14202028だよ
+## <img src=https://raw.githubusercontent.com/yuuki14202028/yuuki14202028/main/logo-06.svg width=100> yuuki14202028だよ
 
 KotlinとScalaが好き
 
