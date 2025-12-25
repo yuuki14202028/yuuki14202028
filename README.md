@@ -27,8 +27,7 @@
 ## Stats
 
 [![](https://raw.githubusercontent.com/yuuki14202028/yuuki14202028/main/profile-summary-card-output/date_night/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-![](https://raw.githubusercontent.com/yuuki14202028/yuuki14202028/main/profile-summary-card-output/date_night/1-repos-per-language.svg) ![](https://raw.githubusercontent.com/yuuki14202028/yuuki14202028/main/profile-summary-card-output/date_night/2-most-commit-language.svg)
+[![](https://wakatime.com/share/@yuuki14202028/e94cb980-0523-4d5b-b80a-260068a5f319.svg)](https://wakatime.com/@yuuki14202028)
 
 ![](https://raw.githubusercontent.com/yuuki14202028/yuuki14202028/main/profile-summary-card-output/date_night/3-stats.svg) ![](https://raw.githubusercontent.com/yuuki14202028/yuuki14202028/main/profile-summary-card-output/date_night/4-productive-time.svg)
 
